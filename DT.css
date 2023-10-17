@@ -14,10 +14,10 @@
 
 :root {
   --darkplus-bg: #0F0F0F;
-  --darkplus-bg2: #060606;
-  --darkplus-sec: #A80000;
-  --darkplus-links: #FFFFFF;
-  --darkplus-home-icon: url(https://cdn.discordapp.com/attachments/886248479792459866/1146775617879167026/D7MxpoAXYAAKeJZ.png?ex=653a5405&is=6527df05&hm=748fd0e99c77bf2186f52ea3e15beb1eba4525d352660e796a1a82ae5a2f9ce6&);
+  --darkplus-bg2: #0C0C0C;
+  --darkplus-sec: #83002C;
+  --darkplus-links: #C80144;
+  --darkplus-home-icon: url(https://cdn.discordapp.com/attachments/886248479792459866/1064197675773341786/catherine-falling-sheep-pin.jpg?ex=653e73d1&is=652bfed1&hm=4c5b423d464b32d711c6c3501c722b791ca9efb3c1b8144f764d2bdf295b94f4&);
  --watermark-filter-invert: 0%;
   --watermark-filter-sepia: 0%;
   --watermark-filter-saturate: 0%;
